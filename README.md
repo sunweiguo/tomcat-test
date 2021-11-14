@@ -9,11 +9,14 @@
 前台vue代码：基于vue搭建：
 
 # install dependencies
+
 > npm install --save vue-resource
 
 # build for production with minification
+
 > npm run build
 
 
 # serve with hot reload at localhost:8080
+
 > npm run dev
